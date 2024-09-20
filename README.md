@@ -22,7 +22,7 @@ Entre comillas ya que tampoco tengo algo interesante que contar y nadie me ha pr
 ### Cosas que no me gustan
 - Lugares ruidosos (con excepciones, ya que me gusta ir a conciertos y eventos concurridos como la Japan Weekend o la Manga Barcelona).
 - Los pantallazos azules que da mi PC en algunas ocasiones en las que cierro el emulador.
-- Socializar (que se le va a hacer, es algo necesario, por lo que lo hago ocasionalmente, más online que en persona).
+- Socializar (que se le va a hacer, es algo necesario así que lo hago ocasionalmente, más online que en persona).
 - Que me repitan constantemente lo que tengo que hacer cuando ya soy consciente de ello.
 - Rodalies Renfe y la B5. No veo necesario dar explicaciones.
 
