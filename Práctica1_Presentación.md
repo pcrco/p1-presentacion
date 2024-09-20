@@ -2,7 +2,7 @@
 Práctica 1 - Presentación con MarkDown
 
 ## Hola, soy Pau
-Tengo 16 años, vivo en Santa Coloma.
+Tengo 16 años.
 
 ### Cosas que me gustan:
 - Leer
