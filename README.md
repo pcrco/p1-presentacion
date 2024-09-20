@@ -25,7 +25,7 @@ Tengo 16 años, vivo en Santa Coloma
 - También, a parte de One Piece, estoy leyendo Oyasumi Punpun. Voy por el 4º tomo.
 - Tengo una addicción poco preocupante con el café y el picante.
 
-# Tengo 2 gatos. 
+## Tengo 2 gatos. 
 Este es uno de ellos. Se llama [**Pan**](IMG20230216084848.jpg).
 También tengo una gata, se llama Gina, pero no puedo poner una foto suya porque no tengo ninguna a mano y no puedo usar el móvil en clase.
 
