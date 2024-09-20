@@ -2,7 +2,7 @@
 Práctica 1 - Presentación con MarkDown
 
 # Hola, soy Pau
-## Tengo 16 años, vivo en Santa Coloma
+Tengo 16 años, vivo en Santa Coloma
 
 ## Cosas que me gustan:
 - Leer
@@ -23,10 +23,9 @@ Práctica 1 - Presentación con MarkDown
 - Me he puesto al día con el anime de One Piece en un año y un mes aproximadamente, y con el manga, un poco más tarde, pero estoy al día en ambos.
 - A parte de One Piece, estoy empezando a ver Naruto.
 - También, a parte de One Piece, estoy leyendo Oyasumi Punpun. Voy por el 4º tomo.
-- Tengo una addicción no muy preocupante con el café y el picante.
+- Tengo una addicción poco preocupante con el café y el picante.
 
 # Tengo 2 gatos. 
-## Este es uno de ellos. Se llama Pan.
-### No seas mala persona, saluda a Pan.
+Este es uno de ellos. Se llama **Pan**.
 
 [Pan](IMG20230216084848.jpg)
