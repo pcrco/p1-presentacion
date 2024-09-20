@@ -42,5 +42,5 @@ Entre comillas ya que tampoco tengo algo interesante que contar y nadie me ha pr
 - Tengo una addicción poco preocupante con el café y el picante.
 
 ### Tengo 2 gatos. 
-[**Este**](IMG20230216084848.jpg) es uno de ellos. Se llama Pan.
+![**Este**](IMG20230216084848.jpg) es uno de ellos. Se llama Pan.
 También tengo una gata, se llama Gina, pero no puedo poner una foto suya porque no tengo ninguna a mano y no puedo usar el móvil en clase.
