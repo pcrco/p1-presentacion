@@ -27,7 +27,7 @@ Tengo 16 años, vivo en Santa Coloma
 
 ### Tengo 2 gatos. 
 [**Este**](IMG20230216084848.jpg) es uno de ellos. Se llama Pan.
-> ! Acaricia a Pan
+||hola||
 También tengo una gata, se llama Gina, pero no puedo poner una foto suya porque no tengo ninguna a mano y no puedo usar el móvil en clase.
 
 ## Cosas que no me gustan
