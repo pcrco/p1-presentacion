@@ -26,6 +26,6 @@ Tengo 16 años, vivo en Santa Coloma
 - Tengo una addicción poco preocupante con el café y el picante.
 
 # Tengo 2 gatos. 
-Este es uno de ellos. Se llama **Pan**.
+Este es uno de ellos. Se llama [**Pan**](IMG20230216084848.jpg).
 
-[Pan](IMG20230216084848.jpg)
+
